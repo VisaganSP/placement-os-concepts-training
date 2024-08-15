@@ -178,7 +178,7 @@ An inode is a data structure on a filesystem that stores information about a fil
 
 To assess your understanding of the operating systems concepts covered in this document, we have prepared a short quiz. This quiz will help you evaluate your knowledge and readiness for interviews. 
 
-**[Click here to take the quiz and test your knowledge!](https://forms.gle/example-quiz-link)**
+**[Click here to take the quiz and test your knowledge!](https://forms.gle/1Xn64bhD5hiWSMK27)**
 
 Feel free to complete the quiz at your own pace. Your results will help you identify areas where you might need further review and practice.
 
