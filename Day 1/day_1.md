@@ -8,7 +8,7 @@ This document provides a list of 30 beginner-level operating systems questions a
 
 ## Table of Contents
 
-1. [What is an Operating System?](#what-is-an-operating-system)
+1. [What is an Operating System?](#1-what-is-an-operating-system)
 2. [What are the main functions of an Operating System?](#what-are-the-main-functions-of-an-operating-system)
 3. [What is the difference between a process and a thread?](#what-is-the-difference-between-a-process-and-a-thread)
 4. [What is process scheduling?](#what-is-process-scheduling)
