@@ -174,12 +174,6 @@ Device drivers are specialized software that allows the operating system to comm
 
 An inode is a data structure on a filesystem that stores information about a file or directory, including its size, permissions, and location on disk.
 
-#### **📚 Suggested Reading**
-
-- [Operating System Interview Questions - Interview Bit](https://www.interviewbit.com/operating-system-interview-questions/)
-
-- [Operating System Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems-interview-questions/)
-
 ## **📝 Test Your Knowledge**
 
 To assess your understanding of the operating systems concepts covered in this document, we have prepared a short quiz. This quiz will help you evaluate your knowledge and readiness for interviews. 
@@ -187,6 +181,12 @@ To assess your understanding of the operating systems concepts covered in this d
 **[Click here to take the quiz and test your knowledge!](https://forms.gle/example-quiz-link)**
 
 Feel free to complete the quiz at your own pace. Your results will help you identify areas where you might need further review and practice.
+
+#### **📚 Suggested Reading**
+
+- [Operating System Interview Questions - Interview Bit](https://www.interviewbit.com/operating-system-interview-questions/)
+
+- [Operating System Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems-interview-questions/)
 
 ## 🎓 Good Luck!
 
