@@ -9,35 +9,35 @@ This document provides a list of 30 beginner-level operating systems questions a
 ## Table of Contents
 
 1. [What is an Operating System?](#1-what-is-an-operating-system)
-2. [What are the main functions of an Operating System?](#what-are-the-main-functions-of-an-operating-system)
-3. [What is the difference between a process and a thread?](#what-is-the-difference-between-a-process-and-a-thread)
-4. [What is process scheduling?](#what-is-process-scheduling)
-5. [What is a deadlock?](#what-is-a-deadlock)
-6. [What are the different types of operating systems?](#what-are-the-different-types-of-operating-systems)
-7. [What is virtual memory?](#what-is-virtual-memory)
-8. [What is a file system?](#what-is-a-file-system)
-9. [What is paging in operating systems?](#what-is-paging-in-operating-systems)
-10. [What is segmentation?](#what-is-segmentation)
-11. [What is a kernel?](#what-is-a-kernel)
-12. [What is the difference between user mode and kernel mode?](#what-is-the-difference-between-user-mode-and-kernel-mode)
-13. [What is a semaphore?](#what-is-a-semaphore)
-14. [What is a mutex?](#what-is-a-mutex)
-15. [What is a context switch?](#what-is-a-context-switch)
-16. [What is a system call?](#what-is-a-system-call)
-17. [What is thrashing?](#what-is-thrashing)
-18. [What is a process control block (PCB)?](#what-is-a-process-control-block-pcb)
-19. [What is a fork system call?](#what-is-a-fork-system-call)
-20. [What is a zombie process?](#what-is-a-zombie-process)
-21. [What is the purpose of an interrupt?](#what-is-the-purpose-of-an-interrupt)
-22. [What is a race condition?](#what-is-a-race-condition)
-23. [What is memory management?](#what-is-memory-management)
-24. [What is a priority inversion?](#what-is-a-priority-inversion)
-25. [What is a critical section?](#what-is-a-critical-section)
-26. [What is a page fault?](#what-is-a-page-fault)
-27. [What is a daemon process?](#what-is-a-daemon-process)
-28. [What is a bootloader?](#what-is-a-bootloader)
-29. [What are device drivers?](#what-are-device-drivers)
-30. [What is an inode?](#what-is-an-inode)
+2. [What are the main functions of an Operating System?](#2-what-are-the-main-functions-of-an-operating-system)
+3. [What is the difference between a process and a thread?](#3-what-is-the-difference-between-a-process-and-a-thread)
+4. [What is process scheduling?](#4-what-is-process-scheduling)
+5. [What is a deadlock?](#5-what-is-a-deadlock)
+6. [What are the different types of operating systems?](#6-what-are-the-different-types-of-operating-systems)
+7. [What is virtual memory?](#7-what-is-virtual-memory)
+8. [What is a file system?](#8-what-is-a-file-system)
+9. [What is paging in operating systems?](#9-what-is-paging-in-operating-systems)
+10. [What is segmentation?](#10-what-is-segmentation)
+11. [What is a kernel?](#11-what-is-a-kernel)
+12. [What is the difference between user mode and kernel mode?](#12-what-is-the-difference-between-user-mode-and-kernel-mode)
+13. [What is a semaphore?](#13-what-is-a-semaphore)
+14. [What is a mutex?](#14-what-is-a-mutex)
+15. [What is a context switch?](#15-what-is-a-context-switch)
+16. [What is a system call?](#16-what-is-a-system-call)
+17. [What is thrashing?](#17-what-is-thrashing)
+18. [What is a process control block (PCB)?](#18-what-is-a-process-control-block-pcb)
+19. [What is a fork system call?](#19-what-is-a-fork-system-call)
+20. [What is a zombie process?](#20-what-is-a-zombie-process)
+21. [What is the purpose of an interrupt?](#21-what-is-the-purpose-of-an-interrupt)
+22. [What is a race condition?](#22-what-is-a-race-condition)
+23. [What is memory management?](#23-what-is-memory-management)
+24. [What is a priority inversion?](#24-what-is-a-priority-inversion)
+25. [What is a critical section?](#25-what-is-a-critical-section)
+26. [What is a page fault?](#26-what-is-a-page-fault)
+27. [What is a daemon process?](#27-what-is-a-daemon-process)
+28. [What is a bootloader?](#28-what-is-a-bootloader)
+29. [What are device drivers?](#29-what-are-device-drivers)
+30. [What is an inode?](#30-what-is-an-inode)
 
 ---
 
@@ -180,6 +180,16 @@ An inode is a data structure on a filesystem that stores information about a fil
 
 - [Operating System Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/operating-systems-interview-questions/)
 
----
+## **📝 Test Your Knowledge**
 
-Feel free to use this document for your training and interview preparation. Good luck!
+To assess your understanding of the operating systems concepts covered in this document, we have prepared a short quiz. This quiz will help you evaluate your knowledge and readiness for interviews. 
+
+**[Click here to take the quiz and test your knowledge!](https://forms.gle/example-quiz-link)**
+
+Feel free to complete the quiz at your own pace. Your results will help you identify areas where you might need further review and practice.
+
+## 🎓 Good Luck!
+
+We wish you the best of luck in your preparation and interview journey. Keep practicing and stay curious!
+
+---
